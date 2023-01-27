@@ -1,0 +1,40 @@
+.usercontainer {
+	border-width: 10px;
+	width: 100%;
+	margin: 20px;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 10px;
+}
+
+.info {
+	align-items: center;
+	max-width: 100%;
+	flex: 1;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.image {
+	min-width: 150px;
+	text-align: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 10px;
+}
+
+.usrcard-button {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-right: 10px;
+}
+
+.blodText {
+	font-weight: bold;
+	font-size: 18px;
+}
