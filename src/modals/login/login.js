@@ -17,7 +17,7 @@ const Login = () => {
 			})
 			.then((res) => {
 				if (res.status === 200) {
-					navigate("/");
+					navigate("/home");
 				}
 				if (res.status === 401) {
 					alert("Re-enter correct username and password");

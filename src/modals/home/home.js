@@ -45,7 +45,7 @@ const Home = () => {
 				<Button
 					titel={"Logout"}
 					onClick={() => {
-						navigate("/login");
+						navigate("/");
 					}}
 				/>
 			</div>
