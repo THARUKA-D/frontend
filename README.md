@@ -56,5 +56,3 @@
 ![Screenshot6](screenshots/Screenshot6.png)
 
 ![Screenshot7](screenshots/Screenshot7.png)
-
-![Screenshot8](screenshots/Screenshot8.png)
